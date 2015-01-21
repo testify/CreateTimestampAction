@@ -31,7 +31,6 @@ import java.util.TimeZone;
 
 /**
  * The CreateTimestampAction class is a Testify Action service for setting a timestamp property using the current date/time and a user provided timezone
- * @author Michael O'Connor
  */
 public class CreateTimestampAction implements BundleActivator, Action {
 
